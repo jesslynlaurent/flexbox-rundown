@@ -54,6 +54,9 @@ header {
 .section-two {
     background-color: orangered;
     height: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -119,3 +122,4 @@ li {
     border-radius: 10px;
     background-color: aliceblue;
 }
+
